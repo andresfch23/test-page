@@ -32,3 +32,13 @@ img {
     height: 600px;
     border: 10px solid orange;
 }
+
+h2{
+    color: yellow;
+    font-size: 25px;
+    font-family: Georgia;
+}
+
+.otroputo {
+    text-align: center;
+}
